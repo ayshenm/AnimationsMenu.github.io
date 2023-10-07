@@ -1,2 +1,2 @@
 # AnimationsMenu.github.io
-animations menu
+animations-menu-github-io.vercel.app
